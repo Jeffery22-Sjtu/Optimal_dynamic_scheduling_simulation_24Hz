@@ -178,7 +178,7 @@ sys = simsizes(sizes);
 %
 % initialize the initial conditions
 %
-x0  = [LRini];  
+x0  = [0 0];  
 
 %
 % str is always an empty matrix
