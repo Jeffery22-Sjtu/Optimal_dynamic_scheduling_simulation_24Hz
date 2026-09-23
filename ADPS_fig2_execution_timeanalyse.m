@@ -1,6 +1,7 @@
 clear all
 close all
 ADPS_bit = 3;
+ADPS_bit = 10;
 % ADPS_bit = 1; ADPS
 % ADPS_bit = 2; Brute force
 % ADPS_bit = 3; Linear laxation
